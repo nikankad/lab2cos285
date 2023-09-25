@@ -1,4 +1,5 @@
 //TEST COMMIT//
+//ADDING ANOTHER TEST//
 
 public class myArrayList<E> {
 // made by nikan
@@ -54,7 +55,4 @@ public class myArrayList<E> {
      array[index] = input;
      size = s + 1;
  }
- 
- 
- 
 }
